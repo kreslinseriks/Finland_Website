@@ -1,0 +1,14 @@
+/* Defineju fontus, kurus var izsaukt pec "font-family" defineta nosaukuma */
+@font-face {
+    font-family: 'PixelFont';
+    src: url('Jersey10-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NormalFont';
+    src: url('Jersey25-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
